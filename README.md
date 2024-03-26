@@ -1,1 +1,1 @@
-# wheater-app-js
+# weather-app-js
